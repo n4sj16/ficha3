@@ -1,6 +1,1 @@
-## Alteracao realizada por n4sj16
-
-Este projeto foi modificado como parte da Ficha de Trabalho nº 3 do Modulo 13.
-
-
-# ficha3
+Ficha 06 ex 9
